@@ -1,4 +1,4 @@
-<?php defined('API') or exit('http://gwalker.cn');?>
+<?php  defined('API') or exit('http://gwalker.cn');?>
 <?php
     /**
      * @dec 得到配置文件的配置项 & 设置某配置项

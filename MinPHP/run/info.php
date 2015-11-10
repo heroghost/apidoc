@@ -350,7 +350,18 @@
                             $color = 'red';
                         }
                     ?>
-                    <kbd style="color:<?php echo $color?>"><?php echo $v['type']?></kbd> - <kbd><?php echo $v['url']?></kbd>
+                    <?php
+                    $act = 'token';
+                    $params = explode("&", $v['url']);
+                    foreach($params as $param) {
+                        $paramDetails = explode("=", $param);
+                        if($param[0] == 'act') {
+                            $act = $param[1];
+                        }
+                    }
+                    ?>
+                    <kbd style="color:<?php echo $color?>"><?php echo $v['type']?></kbd> - <kbd><?php echo $v['url']?></kbd><br/>
+                    <kbd style="color:<?php echo $color?>"><a target="_blank" href="<?php echo "http://v2.jingqubao.com/testapi_v2/test.php?act=".$act ?>">测试地址</a></kbd>
                 </div>
             </div>
             <?php if(!empty($v['des'])){ ?>
