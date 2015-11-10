@@ -351,13 +351,17 @@
                         }
                     ?>
                     <?php
-                    $act = 'token';
+                    $act = '';
                     $params = explode("&", $v['url']);
                     foreach($params as $param) {
                         $paramDetails = explode("=", $param);
-                        if($param[0] == 'act') {
-                            $act = $param[1];
+                        if($paramDetails[0] == 'act') {
+                            $act = $paramDetails[1];
                         }
+                    }
+                    if($act == '') {
+                        $params = explode("/", $v['url']);
+                        $act = $params[count($params) - 1];
                     }
                     ?>
                     <kbd style="color:<?php echo $color?>"><?php echo $v['type']?></kbd> - <kbd><?php echo $v['url']?></kbd><br/>
