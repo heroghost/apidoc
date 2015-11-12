@@ -1,0 +1,36 @@
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP Warning:  include(./MinPHP/run/init.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 9
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/run/init.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 9
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP Warning:  include(./MinPHP/core/Snoopy.class.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 10
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/core/Snoopy.class.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 10
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:11 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP Warning:  include(./MinPHP/run/init.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 9
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/run/init.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 9
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP Warning:  include(./MinPHP/core/Snoopy.class.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 10
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/core/Snoopy.class.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 10
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:38 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP Warning:  include(./MinPHP/run/init.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 9
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/run/init.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 9
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP Warning:  include(./MinPHP/core/Snoopy.class.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 10
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/core/Snoopy.class.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\testapi\test.php on line 10
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP Stack trace:
+[12-Nov-2015 11:34:40 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\testapi\test.php:0

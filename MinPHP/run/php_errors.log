@@ -1,0 +1,75 @@
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP Warning:  include(Snoopy.class.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 3
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP Warning:  include(): Failed opening 'Snoopy.class.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 3
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP Fatal error:  Class 'Snoopy' not found in D:\webprojects\apidoc\MinPHP\run\api.php on line 4
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:53:28 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP Warning:  include(./MinPHP/core/Snoopy.class.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 3
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/core/Snoopy.class.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 3
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP Fatal error:  Class 'Snoopy' not found in D:\webprojects\apidoc\MinPHP\run\api.php on line 4
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:53:50 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Warning:  include(./MinPHP/run/init.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 3
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/run/init.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 3
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Warning:  include(./MinPHP/core/Snoopy.class.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 4
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/core/Snoopy.class.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 4
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Fatal error:  Class 'Snoopy' not found in D:\webprojects\apidoc\MinPHP\run\api.php on line 5
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 17:55:24 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(squary.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 14
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(): Failed opening 'squary.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 14
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(user.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 15
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(): Failed opening 'user.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 15
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(msg.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 16
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(): Failed opening 'msg.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 16
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(bonus.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 17
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(): Failed opening 'bonus.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 17
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(act.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 18
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Warning:  include_once(): Failed opening 'act.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 18
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:02:04 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:26:27 Asia/Shanghai] PHP Fatal error:  Call to undefined function select() in D:\webprojects\apidoc\MinPHP\run\api.php on line 24
+[09-Nov-2015 18:26:27 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:26:27 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP Warning:  include(./MinPHP/run/init.php): failed to open stream: No such file or directory in D:\webprojects\apidoc\MinPHP\run\api.php on line 2
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP Warning:  include(): Failed opening './MinPHP/run/init.php' for inclusion (include_path='.;D:\webtools\php\pear;D:\webtools\php\libs') in D:\webprojects\apidoc\MinPHP\run\api.php on line 2
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP Fatal error:  Call to undefined function select() in D:\webprojects\apidoc\MinPHP\run\api.php on line 24
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP Stack trace:
+[09-Nov-2015 18:27:56 Asia/Shanghai] PHP   1. {main}() D:\webprojects\apidoc\MinPHP\run\api.php:0
