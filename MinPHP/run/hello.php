@@ -10,7 +10,7 @@
         </pre>
     </div>
     <div style="font-size:12px;position:absolute;bottom:0;right:20px;height:20px;text-align:right;">
-        路人庚 | qq : 309581329 | github : <a target="_blank" href="https://github.com/gongwalker/ApiManager.git">https://github.com/gongwalker/ApiManager.git</a>
+        hpduan | qq : 40432039 | github : <a target="_blank" href="https://github.com/heroghost/apidoc">https://github.com/heroghost/apidoc</a>
     </div>
 </div>
 <!--欢迎页 end-->

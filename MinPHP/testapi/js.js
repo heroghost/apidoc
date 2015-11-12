@@ -4,8 +4,8 @@
 // we need tabs as spaces and not CSS magin-left
     // in order to ratain format when coping and pasing the code
 window.SINGLE_TAB = "  ";
-window.ImgCollapsed = "Collapsed.gif";
-window.ImgExpanded = "Expanded.gif";
+window.ImgCollapsed = "MinPhp/testapi/Collapsed.gif";
+window.ImgExpanded = "MinPhp/testapi/Expanded.gif";
 window.QuoteKeys = true;
 function $id(id){ return document.getElementById(id); }
 function IsArray(obj) {
