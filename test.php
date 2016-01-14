@@ -48,8 +48,24 @@ if(!$act) $act="token";
 
 $api_name="/api_v3/".$mod.'/'.$act;//"index.php?app=api_v2&mod=" . $mod . "&act=" . $act;//接口
 $action = "http://www.jqsnsv1.com/api_v3/".$mod.'/'.$act;//."/index.php?app=api_v2&mod=" . $mod . "&act=" . $act;//接口v2test.jingqubao.com
-$snoopy->submit($action, $form);//$formvars为提交的数组
 
+//获取提交的参数
+$submit=array();
+$get='';
+if($apiInfo['type']=='GET'){
+    foreach($params['name'] as $val){
+        $get.='&'.$val.'='.$form[$val];
+    }
+    $get=ltrim($get,'&');
+    $get='?'.$get;
+    $action.=$get;
+}else{
+    foreach($params['name'] as $val){
+        $submit[$val]=$form[$val];
+    }
+}
+
+$snoopy->submit($action, $submit);//$formvars为提交的数组
 $result = $snoopy->results;
 ?>
 <!DOCTYPE html>
