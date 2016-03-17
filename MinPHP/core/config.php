@@ -3,10 +3,10 @@ defined('API') or exit('http://gwalker.cn');
 return array(
     //数据库连接配置
     'db'=>array(
-        'host' => 'localhost',   //数据库地址
-        'dbname' => 'docdb',   //数据库名
-        'user' => 'root',    //帐号
-        'passwd' => 'root',    //密码
+        'host' => '123.57.136.104',   //数据库地址
+        'dbname' => 'docdbv3',   //数据库名
+        'user' => 'remote',    //帐号
+        'passwd' => 'JQB2015test!!!',    //密码
         'linktype' => 'mysqli',    //数据库连接类型 支持mysqli与pdo两种类型
     ),
     //session配置
